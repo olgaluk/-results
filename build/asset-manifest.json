@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.f5461a65.chunk.css",
-  "main.js": "/static/js/main.3a4e944a.chunk.js",
-  "main.js.map": "/static/js/main.3a4e944a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
-  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
-  "static/js/2.8e616af1.chunk.js": "/static/js/2.8e616af1.chunk.js",
-  "static/js/2.8e616af1.chunk.js.map": "/static/js/2.8e616af1.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.0e91d4f15a1a961eb4da7d6b322bad68.js": "/precache-manifest.0e91d4f15a1a961eb4da7d6b322bad68.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.f5461a65.chunk.css.map": "/static/css/main.f5461a65.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/olgaluk/results/static/css/main.610739ea.chunk.css",
+  "main.js": "/olgaluk/results/static/js/main.641783c7.chunk.js",
+  "main.js.map": "/olgaluk/results/static/js/main.641783c7.chunk.js.map",
+  "runtime~main.js": "/olgaluk/results/static/js/runtime~main.01b71991.js",
+  "runtime~main.js.map": "/olgaluk/results/static/js/runtime~main.01b71991.js.map",
+  "static/js/2.8e616af1.chunk.js": "/olgaluk/results/static/js/2.8e616af1.chunk.js",
+  "static/js/2.8e616af1.chunk.js.map": "/olgaluk/results/static/js/2.8e616af1.chunk.js.map",
+  "index.html": "/olgaluk/results/index.html",
+  "precache-manifest.0ea5037cb856ab550e114566b0c8cbde.js": "/olgaluk/results/precache-manifest.0ea5037cb856ab550e114566b0c8cbde.js",
+  "service-worker.js": "/olgaluk/results/service-worker.js",
+  "static/css/main.610739ea.chunk.css.map": "/olgaluk/results/static/css/main.610739ea.chunk.css.map",
+  "static/media/logo.svg": "/olgaluk/results/static/media/logo.5d5d9eef.svg"
 }
